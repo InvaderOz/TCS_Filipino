@@ -5,7 +5,6 @@ Si vas a ejecutar un escaneo en SonarCloud de esto, antes hazle un Fork, el cual
 
 Palomotas xd
 
-
                         -
     \                  /   @ )
       \             _/_   |~ \)
